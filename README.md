@@ -15,3 +15,9 @@ Please note that I have also included my own mod configs in this file but some o
 ## ASE Configs
 Same as the ASA section above but the default directory is here in ASE:  
 `C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Saved\Config\Windows`  
+
+## How do I download?  
+To download everything at once, press the bright green CODE button in the top right, select the local tab and select Download ZIP.  
+If you want to download stuff individually, open the folder for the game you want, and press the download button in the top right.  
+
+![Download](HowToDownload.png)
