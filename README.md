@@ -18,6 +18,6 @@ Same as the ASA section above but the default directory is here in ASE:
 
 ## How do I download?  
 To download everything at once, press the bright green CODE button in the top right, select the local tab and select Download ZIP.  
-If you want to download stuff individually, open the folder for the game you want, and press the download button in the top right.  
+If you want to download stuff individually, open the file in the folder for the game you want, and press the download button in the top right.  
 
 ![Download](HowToDownload.png)
