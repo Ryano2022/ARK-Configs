@@ -2,7 +2,7 @@ These are my config files for games in the ARK series.
 They are very customised to my own playstyle and may not suit yours.  
 I'm sharing this because I've been asked for these files a good few times.
 
-**IMPORTANT:** I've removed the my mod IDs from the `GameUserSettings.ini` files so if you replace this and load up your singleplayer screen in the menus, your mods will be deselected. Make sure to reselect them before loading in to your world.
+**IMPORTANT:** I've removed my mod IDs from the `GameUserSettings.ini` files so if you replace this and load up your singleplayer screen in the menus, your mods will be deselected. Make sure to reselect them before loading in to your world.
 I've also kept but left the value blank for `ServerAdminPassword` and `ServerPassword` from these files so make sure to readd them if you use them.
 
 ## ASA Configs
