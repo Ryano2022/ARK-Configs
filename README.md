@@ -16,7 +16,7 @@ Please note that I have also included my own mod configs in this file but some y
 ## ASE Configs
 Same as the ASA section above but the default directory is here in ASE:  
 **Steam**
-`C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Saved\Config\Windows`  
+`C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Saved\Config\WindowsNoEditor`  
 
 **Epic Games**
 `C:\Program Files\Epic Games\ARKSurvivalEvolved\ShooterGame\Saved\Config\Windows`
