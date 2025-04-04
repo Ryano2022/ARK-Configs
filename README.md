@@ -34,6 +34,9 @@ These are my custom configuration files for games in the ARK series, suited to m
 **Epic Games:**
 ```C:\Program Files\Epic Games\ARKSurvivalEvolved\ShooterGame\Saved\Config\Windows```
 
+### Installation Instructions:
+Same as the ASA instructions.
+
 ---
 
 ## How to Download
