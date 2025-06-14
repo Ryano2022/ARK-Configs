@@ -1,5 +1,5 @@
 Message **\_\_Ryano** on [Discord](https://discord.com) if I've missed any, thanks.  
-Copy from the following and add it to the bottom of your [Game.ini](../Game.ini) to remove any engrams and creatures that require paywalled DLC.
+Copy from the following and add it to the bottom of your [Game.ini](../Game.ini) to remove any engrams and creatures that require paywalled DLC.    
 **Note**: Any blueprints or crafted items, tamed creatures, wild creatures etc. will still exist if it isnt a fresh save so you'll have to dino wipe and then clear out everyone's tames and items of DLC stuff. 
 
 # BTT Part 1: Frontier Showdown
