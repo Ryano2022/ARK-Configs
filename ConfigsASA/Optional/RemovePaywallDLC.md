@@ -109,5 +109,18 @@ NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="Dragonfly_Ch
 ```
 NPCReplacements=(FromClassName="Firelion_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
 NPCReplacements=(FromClassName="DarkPegasus_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Spring_C", ToClassName="Dragonfly_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Summer_C", ToClassName="Dragonfly_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Autumn_C", ToClassName="Dragonfly_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Winter_C", ToClassName="Dragonfly_Character_BP_C")
 ```
+
+# Lost Colony Expansion Pass
+
+## Engrams
+
+Placeholder
+
+## Creatures
+
+NPCReplacements=(FromClassName="YoungIceFox_DinoCompanion_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
