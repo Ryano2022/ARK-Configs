@@ -36,7 +36,7 @@ OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Frontier_Scaffolding_C"
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="Oasisaur_Character_BP_C", ToClassName="Mantis_Character_BP_C")
+NPCReplacements=(FromClassName="Oasisaur_Character_BP_C", ToClassName="Dodo_Character_BP_C")
 ```
 
 # BTT Part 2: Steampunk Ascent
@@ -65,7 +65,7 @@ OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Steampunk_Zeppelin_C",E
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="JumpingSpider_Character_BP_C", ToClassName="Dragonfly_Character_BP_Aberrant_C")
+NPCReplacements=(FromClassName="JumpingSpider_Character_BP_C", ToClassName="Dodo_Character_BP_Aberrant_C")
 ```
 
 # BTT Part 3: Wasteland War
@@ -100,7 +100,7 @@ OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Wasteland_Lights_C",Eng
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
+NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="Dodo_Character_BP_C")
 ```
 
 # Fantastic Tames
@@ -108,12 +108,13 @@ NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="Dragonfly_Ch
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="Firelion_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
-NPCReplacements=(FromClassName="DarkPegasus_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Spring_C", ToClassName="Dragonfly_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Summer_C", ToClassName="Dragonfly_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Autumn_C", ToClassName="Dragonfly_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Winter_C", ToClassName="Dragonfly_Character_BP_C")
+NPCReplacements=(FromClassName="Firelion_Character_BP_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="DarkPegasus_Character_BP_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Spring_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Summer_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Autumn_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Winter_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="SpiritBear_Character_BP_C", ToClassName="Dodo_Character_BP_C")
 ```
 
 # Lost Colony Expansion Pass
@@ -124,4 +125,4 @@ Placeholder
 
 ## Creatures
 
-NPCReplacements=(FromClassName="YoungIceFox_DinoCompanion_Character_BP_C", ToClassName="Dragonfly_Character_BP_C")
+NPCReplacements=(FromClassName="YoungIceFox_DinoCompanion_Character_BP_C", ToClassName="Dodo_Character_BP_C")
