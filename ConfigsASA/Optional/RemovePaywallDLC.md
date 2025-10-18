@@ -108,7 +108,7 @@ NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="Dodo_Charact
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="Firelion_Character_BP_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="FireLion_Character_BP_C", ToClassName="Dodo_Character_BP_C")
 NPCReplacements=(FromClassName="DarkPegasus_Character_BP_C", ToClassName="Dodo_Character_BP_C")
 NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Spring_C", ToClassName="Dodo_Character_BP_C")
 NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Summer_C", ToClassName="Dodo_Character_BP_C")
