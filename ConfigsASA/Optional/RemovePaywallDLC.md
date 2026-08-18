@@ -2,7 +2,7 @@ Message **\_\_Ryano** on [Discord](https://discord.com) if I've missed any, than
 Copy from the following and add it to the bottom of your [Game.ini](../Game.ini) to remove any engrams and creatures that require paywalled DLC.    
 **Note**: Any blueprints or crafted items, tamed creatures, wild creatures etc. will still exist if it isnt a fresh save so you'll have to dino wipe and then clear out everyone's tames and items of DLC stuff. 
 
-# BTT Part 1: Frontier Showdown
+# Frontier Showdown
 
 ## Engrams
 
@@ -36,10 +36,10 @@ OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Frontier_Scaffolding_C"
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="Oasisaur_Character_BP_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="Oasisaur_Character_BP_C", ToClassName="")
 ```
 
-# BTT Part 2: Steampunk Ascent
+# Steampunk Ascent
 
 ## Engrams
 
@@ -65,10 +65,10 @@ OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Steampunk_Zeppelin_C",E
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="JumpingSpider_Character_BP_C", ToClassName="Dodo_Character_BP_Aberrant_C")
+NPCReplacements=(FromClassName="JumpingSpider_Character_BP_C", ToClassName="")
 ```
 
-# BTT Part 3: Wasteland War
+# Wasteland War
 
 ## Engrams
 
@@ -100,7 +100,7 @@ OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Wasteland_Lights_C",Eng
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="")
 ```
 
 # Fantastic Tames
@@ -108,21 +108,115 @@ NPCReplacements=(FromClassName="Doggo_Character_BP_C", ToClassName="Dodo_Charact
 ## Creatures
 
 ```
-NPCReplacements=(FromClassName="FireLion_Character_BP_C", ToClassName="Dodo_Character_BP_C")
-NPCReplacements=(FromClassName="DarkPegasus_Character_BP_C", ToClassName="Dodo_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Spring_C", ToClassName="Dodo_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Summer_C", ToClassName="Dodo_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Autumn_C", ToClassName="Dodo_Character_BP_C")
-NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Winter_C", ToClassName="Dodo_Character_BP_C")
-NPCReplacements=(FromClassName="SpiritBear_Character_BP_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="FireLion_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="DarkPegasus_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Spring_C", ToClassName="")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Summer_C", ToClassName="")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Autumn_C", ToClassName="")
+NPCReplacements=(FromClassName="ShoulderDragon_Character_BP_Winter_C", ToClassName="")
+NPCReplacements=(FromClassName="SpiritBear_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="Jackalope_Character_BP_C", ToClassName="")
 ```
 
-# Lost Colony Expansion Pass
+# Astraeos
 
 ## Engrams
 
-Placeholder
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Saddle_GrandTortugar_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Saddle_GrandTortugar_Platform_C",EngramHidden=True)
 
 ## Creatures
 
-NPCReplacements=(FromClassName="YoungIceFox_DinoCompanion_Character_BP_C", ToClassName="Dodo_Character_BP_C")
+NPCReplacements=(FromClassName="GrandTortugar_Character_BP_C", ToClassName="")
+
+# Lost Colony
+
+## Engrams
+
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticBoots_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticShirt_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticGloves_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticHelmet_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticPants_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Saddle_SnowDragon_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Bloodforge_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_CryoHospital_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_FabCrossbow_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_BossBatSaddle_Platform_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_BossBatSaddle_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_HoloDecoy_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Lights_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Saddle_DevilFox_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_MedicalStand_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Saddle_SnowMonster_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_ShoulderPetDisplayStand_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_TekBunker_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_TekSpear_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ClipboardHammer_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Saddle_AngelFox_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Warbench_C",EngramHidden=True)
+
+## Creatures
+
+NPCReplacements=(FromClassName="YoungIceFox_DinoCompanion_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="SnowMonster_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="MegaSnowMonster_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="SnowDragon_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="BossBat_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="DevilFox_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="AngelFox_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="Thrall_Character_BP_Base_C", ToClassName="")
+NPCReplacements=(FromClassName="LostCharge_LanternPet_Char_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="Neophyte_Character_BP_C", ToClassName="")
+
+# Tides of Fortune
+
+## Engrams
+
+```
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Fishtank_ToF_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ReverseVacuumCompartment_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_BountyBoard_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Brigantine_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_CargoLedger_ToF_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Cannonball_Corrosive_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Grapeshot_TOF_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_HandCannon_ToF_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Cannonball_Incendiary_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Market_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Cannonball_Reinforced_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Shipyard_Large_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Sloop_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Saddle_Axolotl_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_TOF_Lights_C",EngramHidden=True)
+```
+
+This engram is from the Frontier Showdown pack but can also be learned if you own TOF:
+
+```
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Frontier_Shovel_C",EngramHidden=True)
+```
+
+## Creatures
+
+```
+NPCReplacements=(FromClassName="Axolotl_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="Parrot_Character_BP_C", ToClassName="")
+```
+
+# Dragontopia
+
+## Engrams
+
+```
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_DrakeClaw_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Saddle_Lumina_C",EngramHidden=True)
+OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Dragontopia_Saddle_Umbra_C",EngramHidden=True)
+```
+
+## Creatures
+
+```
+NPCReplacements=(FromClassName="Lumina_Character_BP_C", ToClassName="")
+NPCReplacements=(FromClassName="Umbra_Character_BP_C", ToClassName="")
+```
