@@ -122,17 +122,22 @@ NPCReplacements=(FromClassName="Jackalope_Character_BP_C", ToClassName="")
 
 ## Engrams
 
+```
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Saddle_GrandTortugar_C",EngramHidden=True)
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_Saddle_GrandTortugar_Platform_C",EngramHidden=True)
+```
 
 ## Creatures
 
+```
 NPCReplacements=(FromClassName="GrandTortugar_Character_BP_C", ToClassName="")
+```
 
 # Lost Colony
 
 ## Engrams
 
+```
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticBoots_C",EngramHidden=True)
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticShirt_C",EngramHidden=True)
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ArcticGloves_C",EngramHidden=True)
@@ -155,9 +160,11 @@ OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_TekSpear_C",
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_ClipboardHammer_C",EngramHidden=True)
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Saddle_AngelFox_C",EngramHidden=True)
 OverrideNamedEngramEntries=(EngramClassName="EngramEntry_LostColony_Warbench_C",EngramHidden=True)
+```
 
 ## Creatures
 
+```
 NPCReplacements=(FromClassName="YoungIceFox_DinoCompanion_Character_BP_C", ToClassName="")
 NPCReplacements=(FromClassName="SnowMonster_Character_BP_C", ToClassName="")
 NPCReplacements=(FromClassName="MegaSnowMonster_Character_BP_C", ToClassName="")
@@ -168,6 +175,7 @@ NPCReplacements=(FromClassName="AngelFox_Character_BP_C", ToClassName="")
 NPCReplacements=(FromClassName="Thrall_Character_BP_Base_C", ToClassName="")
 NPCReplacements=(FromClassName="LostCharge_LanternPet_Char_BP_C", ToClassName="")
 NPCReplacements=(FromClassName="Neophyte_Character_BP_C", ToClassName="")
+```
 
 # Tides of Fortune
 
